@@ -1,0 +1,18 @@
+{
+  "name": "pruebas-unitarias",
+  "version": "1.0.0",
+  "description": "pruebas",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "jest",
+    "testing"
+  ],
+  "author": "Espitia",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
